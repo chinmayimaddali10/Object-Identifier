@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "../AI-Mario-Game-Student"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../object-detection"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Object Identification"
+    }
+}
