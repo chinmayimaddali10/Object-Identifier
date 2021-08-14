@@ -4,7 +4,7 @@ var img = "";
 objectDetector = "";
 
 function preload() {
-    img = loadImage("2-2-2-3foodgroups_fruits_detailfeature_thumb.jpg");
+    img = loadImage("desk.jpeg");
 }
 
 function setup() {
